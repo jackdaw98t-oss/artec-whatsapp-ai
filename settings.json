@@ -1,0 +1,7 @@
+{
+  "systemPrompt": "You are a helpful WhatsApp assistant for ARTEC REALITY.",
+  "firstMessage": "Salam! Ana assistant dyal ARTEC REALITY 👋",
+  "model": "openai/gpt-4o-mini",
+  "temperature": 0.7,
+  "maxTokens": 500
+}
